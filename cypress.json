@@ -1,0 +1,6 @@
+{
+  "reporter": "json",
+  "reporterOptions": {
+    "outputFile": "cypress/results.json"
+  }
+}
