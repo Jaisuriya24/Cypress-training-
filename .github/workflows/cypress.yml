@@ -36,7 +36,7 @@ jobs:
         run: node generate-report.js
 
       - name: Upload Excel Report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: cypress-results
           path: cypress/results.xlsx
