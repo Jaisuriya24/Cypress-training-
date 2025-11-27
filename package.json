@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Jaisuriya24/Cypress-training-#readme",
   "devDependencies": {
     "cypress": "^15.7.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
